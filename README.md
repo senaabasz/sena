@@ -1,2 +1,2 @@
-This project focuses on classifying different species of fish using machine learning techniques. The dataset used contains images of various fish species, and the goal is to create a model that can accurately predict the species of a fish based on its image.
+This project focuses on classifying different species of fish using machine learning techniques. The dataset used contains images of various fish species, and the goal is to create a model that can accurately predict the species of a fish based on its image. The dataset contains multiple images of different fish species. Each image is labeled with the species name, which will be used for training and testing the classification model.
 https://www.kaggle.com/code/senaabasz/notebook539404c86e
